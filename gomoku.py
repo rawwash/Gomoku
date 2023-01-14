@@ -1,4 +1,4 @@
-#Yousef Alrawwash & Asser Abdelgawad - Project 2: Gomoku - November 19, 2021
+#Yousef Alrawwash & Asser Abdelgawad : Gomoku - November 19, 2021
 
 '''This program initiates a game of standard gomoku between the user and an AI engine'''
 
